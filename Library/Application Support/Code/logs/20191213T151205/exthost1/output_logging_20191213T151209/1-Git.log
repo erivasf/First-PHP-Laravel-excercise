@@ -1,0 +1,115 @@
+Looking for git in: /usr/bin/git
+Using git 2.20.1 (Apple Git-117) from /usr/bin/git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /Users/eliasrivas/WebDevExcercises/PHP/First-PHP-Laravel-excercise
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/Users/eliasrivas/WebDevExcercises/PHP/First-PHP-Laravel-excercise/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/Users/eliasrivas/WebDevExcercises/PHP/First-PHP-Laravel-excercise/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:6950)
+	at E.updateTransientWatchers (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:97463)
+	at u.fire (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at T.updateModelState (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:114843)
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/Users/eliasrivas/WebDevExcercises/PHP/First-PHP-Laravel-excercise/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/Users/eliasrivas/WebDevExcercises/PHP/First-PHP-Laravel-excercise/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:6950)
+	at E.updateTransientWatchers (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:97463)
+	at u.fire (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at T.updateModelState (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:114843)
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/Users/eliasrivas/WebDevExcercises/PHP/First-PHP-Laravel-excercise/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/Users/eliasrivas/WebDevExcercises/PHP/First-PHP-Laravel-excercise/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:6950)
+	at E.updateTransientWatchers (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:97463)
+	at u.fire (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at T.updateModelState (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:114843)
+> git check-ignore -v -z --stdin
+> git show :package.json
+> git ls-files --stage -- ./
+> git show :package-lock.json
+> git ls-files --stage -- ./
+> git show :composer.lock
+> git ls-files --stage -- ./
+> git show :composer.json
+> git ls-files --stage -- ./
+> git show :README.md
+> git show :server.php
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/Users/eliasrivas/WebDevExcercises/PHP/First-PHP-Laravel-excercise/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/Users/eliasrivas/WebDevExcercises/PHP/First-PHP-Laravel-excercise/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:6950)
+	at E.updateTransientWatchers (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:97463)
+	at u.fire (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at T.updateModelState (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:114843)
+> git show :webpack.mix.js
+> git ls-files --stage -- ./
+> git show :yarn.lock
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/Users/eliasrivas/WebDevExcercises/PHP/First-PHP-Laravel-excercise/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/Users/eliasrivas/WebDevExcercises/PHP/First-PHP-Laravel-excercise/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:6950)
+	at E.updateTransientWatchers (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:97463)
+	at u.fire (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at T.updateModelState (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:114843)
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/Users/eliasrivas/WebDevExcercises/PHP/First-PHP-Laravel-excercise/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/Users/eliasrivas/WebDevExcercises/PHP/First-PHP-Laravel-excercise/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:6950)
+	at E.updateTransientWatchers (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:97463)
+	at u.fire (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:227)
+	at T.updateModelState (/private/var/folders/vm/2d_z2q2x49120_1l8d8zhjhc0000gn/T/AppTranslocation/826EEB75-36E0-407E-A271-15AEA05036FB/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main.js:1:114843)
